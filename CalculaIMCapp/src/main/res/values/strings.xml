@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calcula IMC</string>
+    <string name="weight">Peso (kg)</string>
+    <string name="height">Altura (m)</string>
+    <string name="phrase">Seu IMC é:</string>
+    <string name="calc_btn">Calcular</string>
+    <string name="clean_btn">Limpar</string>
+    <string name="diag_0">Muito abaixo do peso</string>
+    <string name="diag_1">Abaixo do peso</string>
+    <string name="diag_2">Peso ideal</string>
+    <string name="diag_3">Sobrepeso</string>
+    <string name="diag_4">Obesidade grau I</string>
+    <string name="diag_5">Obesidade grau II (severa)</string>
+    <string name="diag_6">Obesidade grau III (mórbida)</string>
+    <string name="placeholder">----Placeholder----</string>
+
+</resources>
